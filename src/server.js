@@ -91,7 +91,9 @@ server.ext("onPreResponse", (request, reply) => {
 					<html lang="en-us">
 						<head>
 							<meta charset="utf-8">
+							<meta name = "viewport" content = "width = 320, initial-scale = 1, user-scalable = no">
 							<title>react-isomorphic-starterkit</title>
+							<link rel="stylesheet" href="css/foundation.css">
 							<link rel="shortcut icon" href="/favicon.ico">
 						</head>
 						<body>
